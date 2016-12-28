@@ -78,8 +78,8 @@ where `example.com` is the domain of your new website.
 **download using curl**
 
 
-    curl -L https://github.com/ajdruff/deck-wp/archive/master.tar.gz | tar -zx
-    mv deck-wp* example.com
+    curl -L https://github.com/ajdruff/docker-deck-wp/archive/master.tar.gz | tar -zx
+    mv docker-deck-wp* example.com
     cd example.com
 
 where `example.com` is the domain of your new website.
